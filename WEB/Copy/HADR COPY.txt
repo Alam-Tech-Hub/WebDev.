@@ -1,0 +1,9 @@
+<html>
+<head><title>colorful assignment</title></head>
+<body BGcolor="yellow">
+<h1 align="center"><font color="red" size="15"><U>RD ENGG. COLLEGE</U></font></h1>
+<p><font color="green" size="10"> NAME:<br>FATHER NAME:<br>MOBILE NO:<br>DOB:<br>EMAIL ID:<br>Locality:</font></p>
+<hr><Font color="pink"></font></hr>
+<p><font color="blue" size="10"> FEEDBACK:</font></p>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<html>
+<head><title>table</title></head>
+<body>
+<table>
+<tr>
+<td rowspan="2"><img scr="‪C:\Users\alam\Downloads\pexels-karolina-grabowska-4749939.jpg" alt="happy">1</td>
+<td colspan="2"><img scr="‪C:\Users\alam\Downloads\pexels-cindy-gustafson-675313.jpg" alt="happy">2</td>
+<td rowspan="2"><img scr="‪C:\Users\alam\Downloads\pexels-oleg-magni-2033997.jpg" alt="happy">3</td>
+</tr>
+<tr>
+<td><img scr="‪C:\Users\alam\Downloads\pexels-oleg-magni-2033997.jpg" alt="happy">4</td>
+<td><img scr="‪C:\Users\alam\Downloads\pexels-karolina-grabowska-4749939.jpg" alt="happy">5</td>
+</tr>
+<td rowspan="2"><img scr="‪C:\Users\alam\Downloads\pexels-cindy-gustafson-675313.jpg" alt="happy">6</td>
+<td colspan="2"><img scr="‪C:\Users\alam\Downloads\pexels-oleg-magni-2033997.jpg" alt="happy">7</td>
+<td>8</td></tr>
+<tr><img scr="C:\Users\alam\Downloads\pexels-kat-smith-548375.jpg" alt="happy">
+<td>9</td>
+<td>10</td>
+<td>11</td>
+</tr>
+</table>
+</body>
+</html>

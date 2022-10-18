@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>registration</title>
+        <script>
+            function DFValidation
+            var name=document.std.uname.value;
+            if(typeof name !="string")
+{
+
+    alert("Pls Enter valid name")
+    document.std.uname.focus();
+    return false
+
+}   
+ var rol=document.std.RollNumber.value;
+ if(typeof rol !="number" || rol.length !=13)
+ {
+    alert("pls enter valid roll no.")
+    document.std.RollNumber.focus();
+    return false;
+
+ }
+ var Email= document.std.EmailId.value;
+ var atpos=Email.indexof("@");
+ var dotpos=Email.lastIndexof(".")
+ if(atpos<2 || dotpos-atpos<2)
+ {
+    alert("pls enter valid emali");
+    document.std.EmailId.focus();
+    return false
+ }
+ {
+    return true;
+}
+
+</script>
+    </head>
+</html>
